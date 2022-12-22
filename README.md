@@ -1,16 +1,18 @@
-# Markov-Chain-Sequence-Generator
+# Markov Chain Sequence Generator
 
-A Markov Chain Sequence Generator
+A Markov Chain Sequence Generator <br/>
+Sequence generator that shows which states will be chosen in a given amount of steps for a given transition matrix. <br/>
+This is found in `walk.py`
+
+### Stationary probabilities of a Markov Chain
 
 There are three methods used to calculate the stationary probabilities of a Markov Chain through simulation.
 
 <ul>
-	<li> Finding left eigen vectors (fastest) </li>
-	<li> Matrix multiplication </li>
-	<li> Iteration </li>
+	<li> Finding left eigen vectors (fastest)</li>
+	<li> Matrix multiplication</li>
+	<li> Iteration</li>
 </ul>
-
-There is also a sequence generator that shows which states will be chosen in a given amount of steps for a given transition matrix
 
 If this helped you please star the repository.
 Feel free to open any issues if you want a feature added or I missed something.
